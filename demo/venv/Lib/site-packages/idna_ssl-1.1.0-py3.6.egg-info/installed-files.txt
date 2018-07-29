@@ -1,0 +1,8 @@
+..\idna_ssl.py
+..\__pycache__\idna_ssl.cpython-36.pyc
+dependency_links.txt
+not-zip-safe
+PKG-INFO
+requires.txt
+SOURCES.txt
+top_level.txt
